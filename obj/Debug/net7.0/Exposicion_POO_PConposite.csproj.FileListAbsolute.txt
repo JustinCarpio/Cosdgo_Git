@@ -1,0 +1,14 @@
+C:\Users\justi\OneDrive\Escritorio\Exposicion_POO_PConposite\obj\Debug\net7.0\Exposicion_POO_PConposite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\OneDrive\Escritorio\Exposicion_POO_PConposite\obj\Debug\net7.0\Exposicion_POO_PConposite.AssemblyInfoInputs.cache
+C:\Users\justi\OneDrive\Escritorio\Exposicion_POO_PConposite\obj\Debug\net7.0\Exposicion_POO_PConposite.AssemblyInfo.cs
+C:\Users\justi\OneDrive\Escritorio\Exposicion_POO_PConposite\obj\Debug\net7.0\Exposicion_POO_PConposite.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Escritorio\Exposicion_POO_PConposite\bin\Debug\net7.0\Exposicion_POO_PConposite.exe
+C:\Users\justi\OneDrive\Escritorio\Exposicion_POO_PConposite\bin\Debug\net7.0\Exposicion_POO_PConposite.deps.json
+C:\Users\justi\OneDrive\Escritorio\Exposicion_POO_PConposite\bin\Debug\net7.0\Exposicion_POO_PConposite.runtimeconfig.json
+C:\Users\justi\OneDrive\Escritorio\Exposicion_POO_PConposite\bin\Debug\net7.0\Exposicion_POO_PConposite.dll
+C:\Users\justi\OneDrive\Escritorio\Exposicion_POO_PConposite\bin\Debug\net7.0\Exposicion_POO_PConposite.pdb
+C:\Users\justi\OneDrive\Escritorio\Exposicion_POO_PConposite\obj\Debug\net7.0\Exposicion_POO_PConposite.dll
+C:\Users\justi\OneDrive\Escritorio\Exposicion_POO_PConposite\obj\Debug\net7.0\refint\Exposicion_POO_PConposite.dll
+C:\Users\justi\OneDrive\Escritorio\Exposicion_POO_PConposite\obj\Debug\net7.0\Exposicion_POO_PConposite.pdb
+C:\Users\justi\OneDrive\Escritorio\Exposicion_POO_PConposite\obj\Debug\net7.0\Exposicion_POO_PConposite.genruntimeconfig.cache
+C:\Users\justi\OneDrive\Escritorio\Exposicion_POO_PConposite\obj\Debug\net7.0\ref\Exposicion_POO_PConposite.dll
